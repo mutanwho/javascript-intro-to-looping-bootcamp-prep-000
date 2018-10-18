@@ -1,6 +1,6 @@
 for (let i = 1; i < 25; i++) {
- console.lo 
-}console.log
+ console.log("I am 1 strange loop.")
+}
 
 
 
