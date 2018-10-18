@@ -10,10 +10,4 @@ function forLoop(array){
   return array;
 }
 
-
-
-let countdown = 50;
- 
-while (countdown > 0) {
-  console.log(--countdown);
-}
+function forWhile(array)
