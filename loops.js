@@ -1,5 +1,5 @@
-forLoop (let i = 0; i < 25; i++) {
- console.log("I am 1 strange loop" +i+ "time");
+forLoop (let i = 3; i < 25; i++) {
+ console.log("I am ${i} strange loops" +i+ "time");
 }
 
 
